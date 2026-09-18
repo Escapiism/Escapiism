@@ -32,13 +32,16 @@ ${\textsf{\color{#419193}Autistic}}$ ${\textsf{\color{#73ACAE}:}}$ ${\textsf{\co
 <img witdth="230" height="230" src="https://i.postimg.cc/s2cpxqp8/Untitled363-20260917175555.png" align="left">
 
 </br>
-<p align="left">
+<p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rnpx2iljaunjlqgpupx6dfcf2e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rnpx2iljaunjlqgpupx6dfcf2e&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=344f7a&bar_color_cover=false">
   </a>
 </p>
 
-###### [*꒰ my playlist ^_^ ꒱*](https://open.spotify.com/playlist/1gv3w8KqBOY652Uo88j0jk)
+ <p align="center">
+   
+   [*꒰ my playlist ^_^ ꒱*](https://open.spotify.com/playlist/1gv3w8KqBOY652Uo88j0jk)
+ </p>
 
 <img width="3047" height="551" src="https://i.postimg.cc/Xq1vPMTz/Untitled365-20260917191627.png">
 
