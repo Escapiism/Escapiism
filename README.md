@@ -38,6 +38,8 @@ ${\textsf{\color{#419193}Autistic}}$ ${\textsf{\color{#73ACAE}:}}$ ${\textsf{\co
   </a>
 </p>
 
+###### [*꒰ my playlist ^_^ ꒱*](https://open.spotify.com/playlist/1gv3w8KqBOY652Uo88j0jk)
+
 <img width="3047" height="551" src="https://i.postimg.cc/Xq1vPMTz/Untitled365-20260917191627.png">
 
 ###### [go read puzzleheads.. oohoh..](https://www.webtoons.com/en/canvas/puzzleheads-16/list?title_no=1139177)
