@@ -30,15 +30,16 @@ ${\textsf{\color{#419193}Autistic}}$ ${\textsf{\color{#73ACAE}:}}$ ${\textsf{\co
 </br>
 
 <img witdth="230" height="230" src="https://i.postimg.cc/s2cpxqp8/Untitled363-20260917175555.png" align="left">
-<p align="right">
-  <sub>${\textsf{\color{#815A73}No one loves}}$ ${\textsf{\color{#4B1B2B}you,}}$ ${\textsf{\color{#815A73}Up above}}$ ${\textsf{\color{#4B1B2B}you.}}$</sup> </br>
-  <sub>${\textsf{\color{#815A73}No one hears}}$ ${\textsf{\color{#4B1B2B}you,}}$ ${\textsf{\color{#815A73}No one sees}}$ ${\textsf{\color{#4B1B2B}you.}}$</sup> <br>
-</p>
+
 </br>
 <p align="left">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rnpx2iljaunjlqgpupx6dfcf2e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rnpx2iljaunjlqgpupx6dfcf2e&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=344f7a&bar_color_cover=false">
   </a>
+</p>
+<p align="right">
+  <sub>${\textsf{\color{#815A73}No one loves}}$ ${\textsf{\color{#4B1B2B}you,}}$ ${\textsf{\color{#815A73}Up above}}$ ${\textsf{\color{#4B1B2B}you.}}$</sup> </br>
+  <sub>${\textsf{\color{#815A73}No one hears}}$ ${\textsf{\color{#4B1B2B}you,}}$ ${\textsf{\color{#815A73}No one sees}}$ ${\textsf{\color{#4B1B2B}you.}}$</sup> <br>
 </p>
   
 ###### [*꒰ my playlist ^_^ ꒱*](https://open.spotify.com/playlist/1gv3w8KqBOY652Uo88j0jk)
